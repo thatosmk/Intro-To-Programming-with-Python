@@ -1,2 +1,6 @@
 # Intro-To-Programming-with-Python
-Take the next step to become a developer with this course
+
+This is an introductory course in programming using the python programming language. It is meant to be as introductory
+as possible and focus more on delivery important aspects of programming.
+
+> See Wiki for the course.
